@@ -494,9 +494,7 @@ header{
 	text-align:center;
 }
 .technical .skills img{
-	margin:0 auto;
 	margin-bottom:33px;
-	width:100%;
 	max-width:152px;
 }
 
@@ -1353,4 +1351,29 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 .portfolio-border{
 	border:5px solid;
 }
+
+.skill-icon{
+  margin-top: 40px;
+}
+
+
+.skill-icon-1{
+	height: 70px;
+  width: 70px;
+}
+
+.skill-icon-2{
+	height: 65px;
+  width: 65px;
+}
+
+.skill-icon-3{
+	height: 65px;
+  width: 65px;
+}
+
+
+
+
+
 
