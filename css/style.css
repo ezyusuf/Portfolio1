@@ -1377,7 +1377,17 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 
+.portfolio-desc{
+text-align: center;
+padding-top:10px;
+}
 
 
+.portfolio-desc-1{
+text-align: center;
+padding-top:70px;
+font-size:18px;
+color: orange;
+}
 
 
